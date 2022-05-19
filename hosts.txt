@@ -1,3 +1,3 @@
 0.0.0.0 dns.msftncsi.com
-0.0.0.0 www.msftncsi.com
-0.0.0.0 megacable.logs.oregan.tv
+0.0.0.0 msftncsi.com
+0.0.0.0 oregan.tv
