@@ -1,2 +1,2 @@
-0.0.0.0 dns.msftncsi.com
-0.0.0.0 www.msftncsi.com
+142.250.189.4 dns.msftncsi.com
+142.250.189.4 www.msftncsi.com
