@@ -2,3 +2,4 @@
 0.0.0.0 msftncsi.com
 0.0.0.0 oregan.tv
 0.0.0.0 datatracker.ietf.org
+52.250.42.157 google.com
