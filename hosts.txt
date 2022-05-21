@@ -4,3 +4,4 @@
 0.0.0.0 datatracker.ietf.org
 0.0.0.0 suggestqueries-clients6.youtube.com
 0.0.0.0 suggestqueries.google.com
+0.0.0.0 scontent.ftlc1-1.fna.fbcdn.net
