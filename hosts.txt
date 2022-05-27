@@ -11,7 +11,7 @@
 0.0.0.0 sitecheck.geo.opera.com
 0.0.0.0 clientstream.launchdarkly.com
 0.0.0.0 megacable.logs.oregan.tv
-0.0.0.0 megacable.com.mx
+192.168.50.99 megacable.com.mx
 0.0.0.0 megared.net.mx
 0.0.0.0 megacable.convertia.com
 0.0.0.0 189.194.248.231
