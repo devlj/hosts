@@ -15,3 +15,4 @@
 0.0.0.0 fbcdn.net
 0.0.0.0 www.facebook.com
 0.0.0.0 megacable.com.mx
+0.0.0.0 megacable.convertia.com
