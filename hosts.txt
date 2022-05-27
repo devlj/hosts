@@ -2,11 +2,3 @@
 0.0.0.0 msftncsi.com
 0.0.0.0 oregan.tv
 0.0.0.0 datatracker.ietf.org
-0.0.0.0 autoupdate.geo.opera.com
-0.0.0.0 detectportal.firefox.com
-0.0.0.0 android.clients.google.com
-0.0.0.0 analytics.getpostman.com
-0.0.0.0 cdn.cookielaw.org
-0.0.0.0 features.geo.opera.com
-0.0.0.0 sitecheck.geo.opera.com
-0.0.0.0 clientstream.launchdarkly.com
