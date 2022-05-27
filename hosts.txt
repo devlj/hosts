@@ -11,9 +11,6 @@
 0.0.0.0 sitecheck.geo.opera.com
 0.0.0.0 clientstream.launchdarkly.com
 0.0.0.0 megacable.logs.oregan.tv
-0.0.0.0 facebook.com
-0.0.0.0 fbcdn.net
-0.0.0.0 www.facebook.com
 0.0.0.0 megacable.com.mx
 0.0.0.0 megared.net.mx
 0.0.0.0 megacable.convertia.com
