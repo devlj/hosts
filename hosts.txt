@@ -11,3 +11,5 @@
 0.0.0.0 analytics.getpostman.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 fonts.googleapis.com
+0.0.0.0 features.geo.opera.com
+0.0.0.0 sitecheck.geo.opera.com
