@@ -11,3 +11,4 @@
 0.0.0.0 features.geo.opera.com
 0.0.0.0 sitecheck.geo.opera.com
 0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 clientstream.launchdarkly.com
