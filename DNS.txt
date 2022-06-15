@@ -1,5 +1,6 @@
 Cleanbrowsing.org
-https://cleanbrowsing.org/guides/dnsovertls/
+Tls: https://cleanbrowsing.org/guides/dnsovertls/
+Https: https://cleanbrowsing.org/guides/dnsoverhttps/
 
 Quad9
 https://www.quad9.net/service/service-addresses-and-features
