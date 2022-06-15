@@ -1,0 +1,22 @@
+Cleanbrowsing.org
+
+Security Filter
+Our security filter blocks access to phishing, malware and malicious domains. It does not block adult content.
+
+Domain:: security-filter-dns.cleanbrowsing.org
+IPv4 address: 185.228.168.9:853 and 185.228.169.9:853
+IPv6 address: [2a0d:2a00:1::2]:853 and [2a0d:2a00:2::2]:853
+
+Family Filter
+Blocks access to all adult, pornographic and explicit sites. It also blocks proxy and VPN domains that are used to bypass the filters. Mixed content sites (like Reddit) are also blocked. Google, Bing and Youtube are set to the Safe Mode.
+
+Domain:: family-filter-dns.cleanbrowsing.org
+IPv4 address: 185.228.168.168:853 and 185.228.169.168:853
+IPv6 address: [2a0d:2a00:1::]:853 and [2a0d:2a00:2::]:853
+
+Adult Filter
+Blocks access to all adult, pornographic and explicit sites. It does not block proxy or VPNs, nor mixed-content sites. Sites like Reddit are allowed. Google and Bing are set to the Safe Mode.
+
+Domain:: adult-filter-dns.cleanbrowsing.org
+IPv4 address: 185.228.168.10:853 and 185.228.169.11:853
+IPv6 address: [2a0d:2a00:1::1]:853 and [2a0d:2a00:2::1]:853
