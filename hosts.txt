@@ -15,3 +15,4 @@
 0.0.0.0 200.77.146.137
 0.0.0.0 200.52.173.50
 0.0.0.0 ubeeinteractive.com
+0.0.0.0 analytics.mercadolibre.com
