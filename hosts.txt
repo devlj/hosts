@@ -14,4 +14,3 @@
 0.0.0.0 200.52.173.50
 0.0.0.0 ubeeinteractive.com
 0.0.0.0 analytics.mercadolibre.com
-0.0.0.0 pps.whatsapp.net
