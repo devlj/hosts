@@ -15,3 +15,4 @@
 0.0.0.0 ubeeinteractive.com
 0.0.0.0 analytics.mercadolibre.com
 0.0.0.0 pps.whatsapp.net
+0.0.0.0 akadns.net
