@@ -308,17 +308,4 @@
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 id.google.com
 0.0.0.0 oregan.tv
-0.0.0.0 whatsapp.com
-0.0.0.0 web.whatsapp.com
-0.0.0.0 api.whatsapp.com
-0.0.0.0 m.whatsapp.net
-0.0.0.0 whatsapp.net
-0.0.0.0 *.whatsapp.com
-0.0.0.0 *.whatsapp.net
-0.0.0.0 c.whatsapp.net
-0.0.0.0 *.whatsapp-cdn.net
-0.0.0.0 *.whatsapp.net
-0.0.0.0 *.whatsapp.com
-0.0.0.0 *.whatsapp.net
-0.0.0.0 *.whatsapp.net
-0.0.0.0 *.whatsapp.net
+
