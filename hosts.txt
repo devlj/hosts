@@ -305,7 +305,7 @@
 0.0.0.0 tosback.org
 0.0.0.0 tapatalk.com
 0.0.0.0 megacable.logs.oregan.tv
-0.0.0.0 dit.whatsapp.net
+
 0.0.0.0 id.google.com
 0.0.0.0 oregan.tv
 
