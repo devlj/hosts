@@ -308,5 +308,5 @@
 
 0.0.0.0 id.google.com
 0.0.0.0 oregan.tv
-127.0.0.1 xtracloud.net
+0.0.0.0 extracloud.net
 
