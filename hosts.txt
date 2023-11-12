@@ -305,8 +305,26 @@
 0.0.0.0 tosback.org
 0.0.0.0 tapatalk.com
 0.0.0.0 megacable.logs.oregan.tv
-
 0.0.0.0 id.google.com
 0.0.0.0 oregan.tv
 0.0.0.0 extracloud.net
+0.0.0.0 ads.roku.com
+0.0.0.0 amarillo.logs.roku.com
+0.0.0.0 amoeba-plus.web.roku.com
+0.0.0.0 customer-feedbacks.web.roku.com
+0.0.0.0 digdug-g2.logs.roku.com
+0.0.0.0 digdug.logs.roku.com
+0.0.0.0 display.ravm.tv
+0.0.0.0 i.ads.roku.com
+0.0.0.0 p.ads.roku.com
+0.0.0.0 raps-perf.ravm.tv
+0.0.0.0 raps.ravm.tv
+0.0.0.0 ravm.tv
+0.0.0.0 rxr.ravm.tv
+0.0.0.0 samples.voice.cti.roku.com
+0.0.0.0 traces.sr.roku.com
+0.0.0.0 track.sr.roku.com
+0.0.0.0 wwwimg.roku.com
+
+
 
