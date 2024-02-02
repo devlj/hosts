@@ -21,7 +21,6 @@
 0.0.0.0 200.52.173.50
 0.0.0.0 apple.news
 0.0.0.0 carriersignal.info
-0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
 0.0.0.0 pagead2.googleadservices.com
@@ -29,11 +28,6 @@
 0.0.0.0 static.media.net
 0.0.0.0 media.net
 0.0.0.0 adservetx.media.net
-0.0.0.0 doubleclick.net/
-0.0.0.0 ad.doubleclick.net/
-0.0.0.0 ad.doubleclick.net/
-0.0.0.0 m.doubleclick.net
-0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 fastclick.com
 0.0.0.0 fastclick.net
 0.0.0.0 media.fastclick.net/
