@@ -312,7 +312,5 @@
 0.0.0.0 samples.voice.cti.roku.com
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 track.sr.roku.com
-0.0.0.0 wwwimg.roku.com
-
-
-
+0.0.0.0 img.roku.com
+0.0.0.0 temu.com
