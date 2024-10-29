@@ -314,3 +314,26 @@
 0.0.0.0 track.sr.roku.com
 0.0.0.0 img.roku.com
 0.0.0.0 temu.com
+0.0.0.0 prod.boltdns.net
+0.0.0.0 cdn.registerdisney.go.com
+0.0.0.0 disneynow.com
+0.0.0.0 disneyplus.bn5x.net
+0.0.0.0 dssott.com
+0.0.0.0 global.burstnet.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 images.taboola.com
+0.0.0.0 tags.tiqcdn.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 tps.doubleverify.com
+0.0.0.0 cm.everesttech.net
+0.0.0.0 delivery.vidible.tv
+0.0.0.0 ads.vidible.tv
+0.0.0.0 dpm.demdex.net
+0.0.0.0 s0.2mdn.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 google-analytics.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 doubleclick.net
+
