@@ -336,4 +336,30 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 doubleclick.net
+0.0.0.0 connect.facebook.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 events.facebook.com
+0.0.0.0 business.instagram.com
+0.0.0.0 ads.instagram.com
+0.0.0.0 staticxx.facebook.com
+0.0.0.0 scontent.fbsbx.com
+0.0.0.0 creative.ak.fbcdn.net
+0.0.0.0 fbcdn.net
+0.0.0.0 facebook.net
+0.0.0.0 fbsbx.com
+0.0.0.0 badge.facebook.com
+0.0.0.0 atdmt.com
+0.0.0.0 doubleclick.net
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 edge-video.facebook.com
+0.0.0.0 star.c10r.facebook.com
+0.0.0.0 ads-meta.net
+0.0.0.0 secure-facebook.com
+0.0.0.0 staticxx.instagram.com
+0.0.0.0 b-graph.facebook.com
+0.0.0.0 events.oculus.com
+0.0.0.0 business.facebook.com
+
 
