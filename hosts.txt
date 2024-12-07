@@ -315,9 +315,6 @@
 0.0.0.0 img.roku.com
 0.0.0.0 temu.com
 0.0.0.0 prod.boltdns.net
-0.0.0.0 cdn.registerdisney.go.com
-0.0.0.0 disneynow.com
-0.0.0.0 disneyplus.bn5x.net
 0.0.0.0 dssott.com
 0.0.0.0 global.burstnet.com
 0.0.0.0 cdn.taboola.com
