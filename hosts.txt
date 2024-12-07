@@ -11,14 +11,8 @@
 0.0.0.0 sitecheck.geo.opera.com
 0.0.0.0 megacable.logs.oregan.tv
 0.0.0.0 megacable.convertia.com
-0.0.0.0 189.194.248.231
-0.0.0.0 200.77.146.137
-0.0.0.0 200.52.173.50
 0.0.0.0 ubeeinteractive.com
 0.0.0.0 analytics.mercadolibre.com
-0.0.0.0 189.194.248.231
-0.0.0.0 200.77.146.137
-0.0.0.0 200.52.173.50
 0.0.0.0 apple.news
 0.0.0.0 carriersignal.info
 0.0.0.0 ads.google.com
