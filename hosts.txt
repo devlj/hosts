@@ -1,3 +1,4 @@
+0.0.0.0 ipfri.com
 0.0.0.0 push.prod.netflix.com
 0.0.0.0 logs.netflix.com
 0.0.0.0 logs.roku.com
